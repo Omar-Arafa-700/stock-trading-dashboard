@@ -24,6 +24,7 @@ export default function Dashboard() {
           </LineChart>
         </ResponsiveContainer>
       </div>
+      <div className="h-[400px] w-full"></div>
     </main>
   );
 }
